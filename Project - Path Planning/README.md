@@ -1,3 +1,8 @@
+The README is borrowed from 
+
+All IPA Credits and source files belong to:
+https://github.com/udacity/CarND-Path-Planning-Project
+
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
    
