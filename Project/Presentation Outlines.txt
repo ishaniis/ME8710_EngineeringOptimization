@@ -1,0 +1,51 @@
+Presentation Layout
+
+S1Title/Objective
+S2
+
+S3Problem Definition
+S4
+
+S5 Motivation Behind
+
+S6 Introduction/ Concise LR
+S7 - LR Insights
+
+S8 - Brief introduction to every type of Algorithms Explored
+
+S9 Comparative Evaluation Bassis
+S10
+
+S11 Problem Formulation 
+S12 - Mentioning the Objective defined in the proposal submission
+
+S13 Algorithms Chosen To work
+
+S14 Operational Design Domain
+S15 - Google Map 
+S16 - Potential Routes Explored
+S17 - Network Map 
+S18 - Node Conenctivity Map
+
+S19 Working Methodology
+S20 
+
+S21 Operational Bottlenecks - What stopped us?
+S22
+
+S23 Observation & Results
+
+S24 - Dijkistra
+S25 Table & Process (Voiceover)
+S26 - A*
+S27 Table & Process (Voiceover)
+S28 - SMA*
+S29 Table & Process (Voiceover)
+
+S30 Conclusion
+S31 
+
+S32 Future Scope 
+S33 
+
+S34 References 

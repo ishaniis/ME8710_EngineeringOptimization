@@ -1,0 +1,86 @@
+ME 8710 - Final Exam 
+15 points - Extra Credit
+
+Deadline - 11th December 2020 , 5pm
+-----------------------------------------------------------
+Cover Page - Sign & Return
+Real World Optimization Study on 
+- Multi Modal Multi Objective Optimization Problem 
+-----------------------------------------------------------
+Every Method in 8710 might not be used for solving the problem..
+Program's / Commercial Algorithms can be used.
+
+Program Written in - C++
+-----------------------------------------------------------
+Problem Objective:
+- Determine the best configuration for a single rocket
+Perform:
+- - Place payloads into an orbit 
+(Altitude(atleast): 400km) (1000 kg < mass < 15,000kg)
+number of stages = n
+Number of Engines = 
+M = 
+
+- - Orbital Acceleration balance must be POSITIVE at 
+desired altitude
+
+- - Maximum Dynamic Pressure no more than 
+33% of Atmospheric Pressure (33,400 Pa)
+
+- - Maximum Acceleration observed < 8g
+
+-----------------------------------------------------------
+RocketSim.exe 
+
+Simulation will generate Telemetry.txt
+telemetry.csv 
+
+Rocket Configuration 
+- No of Stages
+- No of Boosters
+- Type of Boosters (32 Choices)
+- Type of First Stage Engine (46 Engine Choices) 
+- No. of First Stage Engines (upto 50 Engines)
+- No. of Second, third , fourth and Fifth Engine
+- Throttle Profile of the First stage (and Boosters)
+- Burn Durations of the Second, Third, Fourth and Fifth Stages
+- Diameter of Main Rocket Core
+- Mass of the Payload
+
+Rocketsim.exe
+Rocket.txt - Rocket Configuration Proposes
+rocketdata.txt - Data Read by Rocketsim.exe
+telemetry.txt
+telemetry.xlxs - To get the performance, get the plot sheet
+
+Cvector.h, Cmatrix.h, Cxcept.h - Class Files
+constants.h - Header file
+
+flightmodels.h - Header file
+to 
+flightmodels.cpp
+
+menu.h menu.cpp 
+
+Boosters  
+
+One Second Gap between the second stage 
+Fixed Profile of 
+
+Throttle Down time - You can define 
+
+Stage - 2 (When ignite)
+
+Stage Diameter (Calculate
+ME8710-RocketFinals.xls - for Diameter(Pre-defined)
+110% of the Circle 
+Main Stage - Limitting Diameter
+
+
+Shetty's Summary 
+Engine type 
+
+Throttling Control - Max Q Stage (0.8 Max Thrust) 
+
+Graph of Max Q
+- Point of Re-throttling 

@@ -1,0 +1,99 @@
+Parameters for Selection: 
+
+- Wet Mass (As per our Formula)
+
+- Maximum Change in Velocity (Rocket Equation) - Ranking
+
+- ISP (Specific Impulse) - Ranking 
+
+- Wet Mass / Dry Mass Ratio - Ranking
+
+- Thrust / Fuel Consumed Ratio - Ranking 
+
+1st Approach - 
+Selection Metrics Approach
+
+ISP Effective of Overall Configurations
+
+2nd Approach -
+Paper Optimization Approach 
+
+3rd Approach - 
+Eulerian Approach for Rocket
+
+4th Appproach - 
+Akash Bhat Objective Function
+
+Geometric Constraint Optimization (Objective Function)
+- Objective Function 
+
+Report Layout
+
+Mathematical Model 
+- First Approach 
+- - Rocket Equations used
+
+Ideal approach for Formulation:
+- Propellent Budget 
+- Gravitational Potential
+- Hohmann Transfers
+
+Non Ideal Factors:
+- Gravity Drag
+- Air Resistance
+- Additional minimum increase in elevation
+
+
+Report Layout 
+- Introduction to Problem 
+
+- Problem Definition 
+- - MAX Q
+- - Payload Capacity
+- - What is payload ? 
+- - What is Wet Mass ?
+- - What is Dry Mass ?
+- - Dynamic Pressure
+- - - What is dynamic Pressure ?
+- - Maximum Acceleration 
+- - Orbital Acceleration 
+- - Why Orbital Acceleration Positive ?  
+
+- Ideal Approach for Formulation 
+- - Propellent Budget 
+- - Gravitational Potential
+- - Hohmann Transfers
+
+- - Non Ideal Factors:
+- - - Gravity Drag
+- - - Air Resistance
+- - - Additional minimum increase in elevation
+
+- Objective (Failed Approach) - 
+
+- - Working Bottlenecks
+- - Wetmass(Rocket Engines) & Insufficent Data
+
+- Objective (First Approach) - Selection Metrics**
+A. Selection Criteria I
+
+B. Selection Criteria II
+
+C. Coupled Criteria 
+
+- Objective (Second Approach) - 
+(Kullu) 
+
+Assumption:
+- Maximum Velocity achieved at the end of the Burn Time
+- Delta V * Time = Displacement = Altitude 
+Zfinal - Zinitial <= 1/2 * g * T^2 
+Tb 
+- Altitude is limited to 400km  
+
+- Objective (Third Approach) - 
+(Paper) 
+
+- Results & Discussion
+
+- Conclusion
